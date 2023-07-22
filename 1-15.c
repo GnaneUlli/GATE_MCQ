@@ -1,7 +1,6 @@
 //Answers are provided below
 //In first attempt I obtained 9 out of 15. 
 1. Given a piece of code, define ‘s’ to be
-
 struct node
 {
 int i;
