@@ -34,7 +34,8 @@ long z;
 } t;
 Assume that objects of the type short, float, and long occupy 2 bytes, 4
 bytes, and 8 bytes, respectively. The memory requirement for variable t,
-ignoring alignment considerations are:
+ignoring alignment considerations are
+
 (a) 22 bytes
 (b) 14 bytes
 (c) 18 bytes
